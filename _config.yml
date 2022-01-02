@@ -12,40 +12,40 @@ baseurl: ""
 # otherwise, the layout language will use the default value of 'en'.
 lang: en
 
-# Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone: Asia/Shanghai
+# Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
+timezone: Europe/Berlin
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Vladimir Podolskiy                          # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Tech Blog   # it will display as the sub-title
 
-description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+description: >-                        # used by seo meta and the atom feed
+  Diving into the new (and not so new) technologies
+  with Vladimir Podolskiy.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: 'https://remit.github.io'
 
 github:
-  username: github_username # change to your github username
+  username: Remit
 
-twitter:
-  username: twitter_username # change to your twitter username
+# twitter:
+#   username:
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Vladimir Podolskiy
+  email: v.e.podolskiy@gmail.com
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
-    # Uncomment below to add more social links
+    #- https://twitter.com/username      # change to your twitter homepage
+    - https://github.com/Remit
+    - https://www.linkedin.com/in/vladimirpodolskiy
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
 
 google_site_verification: # fill in to your verification string
 
@@ -66,7 +66,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: # [light|dark]
+theme_mode:   dark
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
