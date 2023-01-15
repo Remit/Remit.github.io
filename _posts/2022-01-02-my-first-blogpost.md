@@ -11,8 +11,6 @@ toc: false
 comments: false
 ---
 
-## Purpose of this blog
-
 Working part-time as a journalist at the university newspaper for a couple of years and publishing research papers for at least 11 years, I became aware that writing stuff down makes one's thinking process clearer.
 This is why I practice writing as my daily routine.
 It helps me both to set the goals for the coming day and to shape my understanding of the code when chasing some bizarre bug.
