@@ -1,15 +1,17 @@
 ---
-title: Designing an Enterprise System, Part I: Customer Expectations
+title: Designing an Enterprise System (Part I)
 author:
 name: Vladimir Podolskiy
 link: https://github.com/Remit
 date: 2023-01-15 13:00:00 +0100
-categories: [Software Design, Requirements Analysis]
-tags: [writing]
+categories: [Software Design]
+tags: [customer expectations, enterprise software, software, requirements analysis]
 render_with_liquid: false
 toc: false
 comments: true
 ---
+
+# Designing an Enterprise System, Part I: Customer Expectations
 
 ## How Enterprise Systems Emerge and What Contributes to This
 
