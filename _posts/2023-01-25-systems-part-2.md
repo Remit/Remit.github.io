@@ -15,7 +15,7 @@ comments: true
 
 ## Balancing between Specialization and Generalization
 
-In the second part of the blog post on designing an enterprise system, I will focus on the high-level technical aspects that the software should embody to align with its use cases. This blogpost does not aim to provide an exhaustive list of things you should do to align your software with the use case expectations. Instead, the goal here is to highlight the general connection between the expectations of the use cases and how they can be utilized to shape the software system. You can read more about these expectations in the [previous part](2023-01-15-systems-part-1.md).
+In the second part of the blog post on designing an enterprise system, I will focus on the high-level technical aspects that the software should embody to align with its use cases. This blogpost does not aim to provide an exhaustive list of things you should do to align your software with the use case expectations. Instead, the goal here is to highlight the general connection between the expectations of the use cases and how they can be utilized to shape the software system. You can read more about these expectations in the [previous part](https://remit.github.io/posts/systems-part-1/).
 
 The previous blog post depicted the alignment of the software with the use case as the most important category of expectations to fulfill. The daunting issue of fulfilling these kinds of expectations is to design software that both aligns with every use case and remains generic enough to be useful beyond one specific application.
 
