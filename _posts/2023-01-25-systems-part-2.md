@@ -3,7 +3,7 @@ title: Designing an Enterprise System (Part II)
 author:
 name: Vladimir Podolskiy
 link: https://github.com/Remit
-date: 2023-01-15 13:00:00 +0100
+date: 2023-01-25 13:00:00 +0100
 categories: [Software Design]
 tags: [enterprise software, software, software architecture, modularization, self-adaptability, configurability]
 render_with_liquid: false
