@@ -9,6 +9,7 @@ tags: [enterprise software, software, software architecture, reverse engineering
 render_with_liquid: false
 toc: false
 comments: true
+math: true
 ---
 
 # Reverse Engineering for the Good: From the Source Code to the System Blueprint
