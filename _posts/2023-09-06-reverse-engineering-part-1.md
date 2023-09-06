@@ -121,7 +121,7 @@ mean := mean / groupsCnt
 
 Although this is not a lot of lines, the idea of the mean events count per group is obscured by the implementation details. In contrast, the formula is compact:
 
-X
+$$mean = {\sum_{groups} e_{group} \over n_{groups}} $$
 
 Essentially, you sum the event counts over all the groups and divide the result over the number of groups. Such a formula is easily readable and allows one to clearly visualize how the data state (variable mean) would change depending on the changes in its constituents (number of groups and events per group).
 
